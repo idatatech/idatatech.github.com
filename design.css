@@ -1,0 +1,39 @@
+#main {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#nav {
+    /*height: 20px;*/
+    background-color: azure;
+}
+
+#logo {
+    margin-top: 5px;
+    background-color: aliceblue;
+}
+
+#func {
+    margin-top: 5px;
+    background-color: azure;
+}
+
+#products {
+
+    /*background-color: beige;*/
+}
+
+.product {
+    margin-top: 10px;
+    background-color: aliceblue;
+    /*height: 50px;*/
+    width: 45%;
+    /*padding-right: 5%;*/
+    /*position: relative;*/
+    float: left;
+}
+
+.sep {
+    width: 10%;
+    float: left;
+}
